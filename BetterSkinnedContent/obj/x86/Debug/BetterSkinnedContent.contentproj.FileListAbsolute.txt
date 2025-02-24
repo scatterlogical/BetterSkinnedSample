@@ -1,0 +1,2 @@
+C:\Users\cbowen\Desktop\BetterSkinnedSample\BetterSkinnedContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cbowen\Documents\Projects\BetterSkinnedSample\BetterSkinnedContent\obj\x86\Debug\ResolveAssemblyReference.cache
